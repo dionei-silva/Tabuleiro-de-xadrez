@@ -1,0 +1,323 @@
+body {
+  background-color: rgb(108, 121, 89);
+  margin: 0%;
+  width: 100vh;
+}
+
+div {
+  text-align: center;
+  font-size: 40px;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+}
+
+.div1 {
+  background-color: gray;
+}
+.div2 {
+  background-color: white;
+  left: 5%;
+}
+.div3 {
+  background-color: gray;
+  left: 10%;
+}
+.div4 {
+  background-color: white;
+  left: 15%;
+}
+.div5 {
+  background-color: gray;
+  left: 20%;
+}
+.div6 {
+  background-color: white;
+  left: 25%;
+}
+.div7 {
+  background-color: gray;
+  left: 30%;
+}
+.div8 {
+  background-color: white;
+  left: 35%;
+}
+.div9 {
+  background-color: white;
+  top: 8%;
+}
+.div10 {
+  background-color: gray;
+  left: 5%;
+  top: 8%;
+}
+.div11 {
+  background-color: white;
+  left: 10%;
+  top: 8%;
+}
+.div12 {
+  background-color: gray;
+  left: 15%;
+  top: 8%;
+}
+.div13 {
+  background-color: white;
+  left: 20%;
+  top: 8%;
+}
+.div14 {
+  background-color: gray;
+  left: 25%;
+  top: 8%;
+}
+.div15 {
+  background-color: white;
+  left: 30%;
+  top: 8%;
+}
+.div16 {
+  background-color: gray;
+  left: 35%;
+  top: 8%;
+}
+
+.div17 {
+  background-color: gray;
+  top: 16%;
+}
+.div18 {
+  background-color: white;
+  left: 5%;
+  top: 16%;
+}
+.div19 {
+  background-color: gray;
+  left: 10%;
+  top: 16%;
+}
+.div20 {
+  background-color: white;
+  left: 15%;
+  top: 16%;
+}
+.div21 {
+  background-color: gray;
+  left: 20%;
+  top: 16%;
+}
+.div22 {
+  background-color: white;
+  left: 25%;
+  top: 16%;
+}
+.div23 {
+  background-color: gray;
+  left: 30%;
+  top: 16%;
+}
+.div24 {
+  background-color: white;
+  left: 35%;
+  top: 16%;
+}
+
+.div25 {
+  background-color: white;
+  top: 24%;
+}
+.div26 {
+  background-color: gray;
+  left: 5%;
+  top: 24%;
+}
+.div27 {
+  background-color: white;
+  left: 10%;
+  top: 24%;
+}
+.div28 {
+  background-color: gray;
+  left: 15%;
+  top: 24%;
+}
+.div29 {
+  background-color: white;
+  left: 20%;
+  top: 24%;
+}
+.div30 {
+  background-color: gray;
+  left: 25%;
+  top: 24%;
+}
+.div31 {
+  background-color: white;
+  left: 30%;
+  top: 24%;
+}
+.div32 {
+  background-color: gray;
+  left: 35%;
+  top: 24%;
+}
+
+.div33 {
+  background-color: gray;
+  top: 32%;
+}
+.div34 {
+  background-color: white;
+  left: 5%;
+  top: 32%;
+}
+.div35 {
+  background-color: gray;
+  left: 10%;
+  top: 32%;
+}
+.div36 {
+  background-color: white;
+  left: 15%;
+  top: 32%;
+}
+.div37 {
+  background-color: gray;
+  left: 20%;
+  top: 32%;
+}
+.div38 {
+  background-color: white;
+  left: 25%;
+  top: 32%;
+}
+.div39 {
+  background-color: gray;
+  left: 30%;
+  top: 32%;
+}
+.div40 {
+  background-color: white;
+  left: 35%;
+  top: 32%;
+}
+.div41 {
+  background-color: white;
+  top: 40%;
+}
+.div42 {
+  background-color: gray;
+  left: 5%;
+  top: 40%;
+}
+.div43 {
+  background-color: white;
+  left: 10%;
+  top: 40%;
+}
+.div44 {
+  background-color: gray;
+  left: 15%;
+  top: 40%;
+}
+.div45 {
+  background-color: white;
+  left: 20%;
+  top: 40%;
+}
+.div46 {
+  background-color: gray;
+  left: 25%;
+  top: 40%;
+}
+.div47 {
+  background-color: white;
+  left: 30%;
+  top: 40%;
+}
+.div48 {
+  background-color: gray;
+  left: 35%;
+  top: 40%;
+}
+
+.div49 {
+  background-color: gray;
+  top: 48%;
+}
+.div50 {
+  background-color: white;
+  left: 5%;
+  top: 48%;
+}
+.div51 {
+  background-color: gray;
+  left: 10%;
+  top: 48%;
+}
+.div52 {
+  background-color: white;
+  left: 15%;
+  top: 48%;
+}
+.div53 {
+  background-color: gray;
+  left: 20%;
+  top: 48%;
+}
+.div54 {
+  background-color: white;
+  left: 25%;
+  top: 48%;
+}
+.div55 {
+  background-color: gray;
+  left: 30%;
+  top: 48%;
+}
+.div56 {
+  background-color: white;
+  left: 35%;
+  top: 48%;
+}
+
+.div57 {
+  background-color: white;
+  top: 56%;
+}
+.div58 {
+  background-color: gray;
+  left: 5%;
+  top: 56%;
+}
+.div59 {
+  background-color: white;
+  left: 10%;
+  top: 56%;
+}
+.div60 {
+  background-color: gray;
+  left: 15%;
+  top: 56%;
+}
+.div61 {
+  background-color: white;
+  left: 20%;
+  top: 56%;
+}
+.div62 {
+  background-color: gray;
+  left: 25%;
+  top: 56%;
+}
+.div63 {
+  background-color: white;
+  left: 30%;
+  top: 56%;
+}
+.div64 {
+  background-color: gray;
+  left: 35%;
+  top: 56%;
+}
